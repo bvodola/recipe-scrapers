@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.foodnetwork import FoodNetwork
+from bvodola_recipe_scrapers.foodnetwork import FoodNetwork
 
 
 class TestFoodNetworkScraper(ScraperTest):

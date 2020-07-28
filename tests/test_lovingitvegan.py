@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.lovingitvegan import Lovingitvegan
+from bvodola_recipe_scrapers.lovingitvegan import Lovingitvegan
 
 
 class TestLovingitveganScraper(ScraperTest):

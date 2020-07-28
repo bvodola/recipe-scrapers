@@ -1,10 +1,10 @@
 [run]
 branch = True
-source = recipe_scrapers
+source = bvodola_recipe_scrapers
 
-omit = recipe_scrapers/_abstract.py
-       recipe_scrapers/__init__.py
-       recipe_scrapers/__version__.py
+omit = bvodola_recipe_scrapers/_abstract.py
+       bvodola_recipe_scrapers/__init__.py
+       bvodola_recipe_scrapers/__version__.py
 
 [report]
 exclude_lines =

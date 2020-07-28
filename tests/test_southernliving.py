@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.southernliving import SouthernLiving
+from bvodola_recipe_scrapers.southernliving import SouthernLiving
 
 
 class TestSouthernLiving(ScraperTest):

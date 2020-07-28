@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.tastykitchen import TastyKitchen
+from bvodola_recipe_scrapers.tastykitchen import TastyKitchen
 
 
 class TestTastyKitchenScraper(ScraperTest):

@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.tasteofhome import TasteOfHome
+from bvodola_recipe_scrapers.tasteofhome import TasteOfHome
 
 
 class TestTasteOfHomeScraper(ScraperTest):

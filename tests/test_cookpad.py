@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.cookpad import CookPad
+from bvodola_recipe_scrapers.cookpad import CookPad
 
 
 class TestCookPadScraper(ScraperTest):

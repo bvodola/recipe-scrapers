@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.thepioneerwoman import ThePioneerWoman
+from bvodola_recipe_scrapers.thepioneerwoman import ThePioneerWoman
 
 
 class TestThePioneerWomanScraper(ScraperTest):

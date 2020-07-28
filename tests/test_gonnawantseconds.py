@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.gonnawantseconds import GonnaWantSeconds
+from bvodola_recipe_scrapers.gonnawantseconds import GonnaWantSeconds
 
 
 class TestGonnaWantSeconds(ScraperTest):

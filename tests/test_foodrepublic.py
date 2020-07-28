@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.foodrepublic import FoodRepublic
+from bvodola_recipe_scrapers.foodrepublic import FoodRepublic
 
 
 class TestFoodRepublicScraper(ScraperTest):

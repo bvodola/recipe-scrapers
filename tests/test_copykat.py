@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.copykat import CopyKat
+from bvodola_recipe_scrapers.copykat import CopyKat
 
 
 class TestCopyKat(ScraperTest):

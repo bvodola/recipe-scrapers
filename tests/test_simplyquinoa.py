@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.simplyquinoa import SimplyQuinoa
+from bvodola_recipe_scrapers.simplyquinoa import SimplyQuinoa
 
 
 class TestSimplyQuinoaScraper(ScraperTest):

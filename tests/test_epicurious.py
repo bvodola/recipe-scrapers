@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.epicurious import Epicurious
+from bvodola_recipe_scrapers.epicurious import Epicurious
 
 
 class TestEpicurious(ScraperTest):

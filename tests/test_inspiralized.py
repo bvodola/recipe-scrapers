@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.inspiralized import Inspiralized
+from bvodola_recipe_scrapers.inspiralized import Inspiralized
 
 
 class TestInspiralizedScraper(ScraperTest):

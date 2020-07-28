@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.closetcooking import ClosetCooking
+from bvodola_recipe_scrapers.closetcooking import ClosetCooking
 
 
 class TestClosetCooking(ScraperTest):

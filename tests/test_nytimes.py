@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.nytimes import NYTimes
+from bvodola_recipe_scrapers.nytimes import NYTimes
 
 
 class TestNYTimesScraper(ScraperTest):

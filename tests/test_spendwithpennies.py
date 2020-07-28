@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.spendwithpennies import SpendWithPennies
+from bvodola_recipe_scrapers.spendwithpennies import SpendWithPennies
 
 
 class TestSpendWithPenniesScraper(ScraperTest):

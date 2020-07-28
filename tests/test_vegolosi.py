@@ -1,7 +1,7 @@
 import os
 import unittest
 
-from recipe_scrapers.vegolosi import Vegolosi
+from bvodola_recipe_scrapers.vegolosi import Vegolosi
 
 
 class TestVegolosiScraper(unittest.TestCase):

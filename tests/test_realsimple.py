@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.realsimple import RealSimple
+from bvodola_recipe_scrapers.realsimple import RealSimple
 
 
 class TestRealSimpleScraper(ScraperTest):

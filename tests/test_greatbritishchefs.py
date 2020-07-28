@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.greatbritishchefs import GreatBritishChefs
+from bvodola_recipe_scrapers.greatbritishchefs import GreatBritishChefs
 
 
 class TestGreatBritishChefsScraper(ScraperTest):

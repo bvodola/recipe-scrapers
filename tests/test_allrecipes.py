@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.allrecipes import AllRecipes
+from bvodola_recipe_scrapers.allrecipes import AllRecipes
 
 
 class TestAllRecipesScraper(ScraperTest):

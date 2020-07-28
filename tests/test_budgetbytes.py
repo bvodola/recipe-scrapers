@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.budgetbytes import BudgetBytes
+from bvodola_recipe_scrapers.budgetbytes import BudgetBytes
 
 
 class TestBudgetBytesScraper(ScraperTest):

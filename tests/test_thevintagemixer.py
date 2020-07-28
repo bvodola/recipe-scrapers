@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.thevintagemixer import TheVintageMixer
+from bvodola_recipe_scrapers.thevintagemixer import TheVintageMixer
 
 
 class TestTheVintageMixerScraper(ScraperTest):

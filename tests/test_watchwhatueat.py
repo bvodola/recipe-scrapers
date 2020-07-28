@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.watchwhatueat import WatchWhatUEat
+from bvodola_recipe_scrapers.watchwhatueat import WatchWhatUEat
 
 
 class TestWatchWhatUEatScraper(ScraperTest):

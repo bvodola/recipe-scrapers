@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.momswithcrockpots import MomsWithCrockPots
+from bvodola_recipe_scrapers.momswithcrockpots import MomsWithCrockPots
 
 
 class TestMomsWithCrockPotsScraper(ScraperTest):

@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.motherthyme import MotherThyme
+from bvodola_recipe_scrapers.motherthyme import MotherThyme
 
 
 class TestMotherThymeScraper(ScraperTest):

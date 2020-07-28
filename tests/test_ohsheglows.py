@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.ohsheglows import OhSheGlows
+from bvodola_recipe_scrapers.ohsheglows import OhSheGlows
 
 
 class TestOhSheGlowsScraper(ScraperTest):

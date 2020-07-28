@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.cybercook import Cybercook
+from bvodola_recipe_scrapers.cybercook import Cybercook
 
 
 class TestCybercook(ScraperTest):

@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.twopeasandtheirpod import TwoPeasAndTheirPod
+from bvodola_recipe_scrapers.twopeasandtheirpod import TwoPeasAndTheirPod
 
 
 class TestTwoPeasAndTheirPodScraper(ScraperTest):

@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.mybakingaddiction import MyBakingAddiction
+from bvodola_recipe_scrapers.mybakingaddiction import MyBakingAddiction
 
 
 class TestMyBakingAddictionScraper(ScraperTest):

@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.paninihappy import PaniniHappy
+from bvodola_recipe_scrapers.paninihappy import PaniniHappy
 
 
 class TestPaniniHappyScraper(ScraperTest):

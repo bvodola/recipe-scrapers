@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from recipe_scrapers.cookieandkate import CookieAndKate
+from bvodola_recipe_scrapers.cookieandkate import CookieAndKate
 
 
 class TestCookieAndKateScraper(ScraperTest):
