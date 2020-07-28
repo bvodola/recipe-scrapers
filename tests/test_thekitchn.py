@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.thekitchn import TheKitchn
+from recipe_scrapers.thekitchn import TheKitchn
 
 
 class TestKitchnScraper(ScraperTest):

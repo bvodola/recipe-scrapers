@@ -1,7 +1,7 @@
 import os
 import unittest
 
-from bvodola_recipe_scrapers.fitmencook import FitMenCook
+from recipe_scrapers.fitmencook import FitMenCook
 
 # test recipe's URL
 # https://fitmencook.com/healthy-chili-recipe/

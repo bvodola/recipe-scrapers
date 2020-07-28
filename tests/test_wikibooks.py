@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.wikicookbook import WikiCookbook
+from recipe_scrapers.wikicookbook import WikiCookbook
 
 
 class TestWikiCookbookScraper(ScraperTest):

@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.minimalistbaker import Minimalistbaker
+from recipe_scrapers.minimalistbaker import Minimalistbaker
 
 
 class TestMinimalistbakerScraper(ScraperTest):

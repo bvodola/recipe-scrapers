@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.ig import IG
+from recipe_scrapers.ig import IG
 
 
 class TestIGScraper(ScraperTest):

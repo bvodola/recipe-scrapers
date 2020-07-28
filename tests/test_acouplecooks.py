@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.acouplecooks import ACoupleCooks
+from recipe_scrapers.acouplecooks import ACoupleCooks
 
 
 # test recipe's URL

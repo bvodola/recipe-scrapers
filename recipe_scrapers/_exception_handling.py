@@ -51,7 +51,7 @@ class ExceptionHandlingMetaclass(type):
     function of your own.
 
     Example:
-    from bvodola_recipe_scrapers import scrape_me
+    from recipe_scrapers import scrape_me
     scraper = scrape_me('<recipe_url>', exception_handling=False)
     scraper.total_time()  # and etc.
     """

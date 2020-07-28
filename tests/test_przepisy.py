@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.przepisy import Przepisy
+from recipe_scrapers.przepisy import Przepisy
 
 # test recipe's URL
 # https://www.przepisy.pl/przepis/placki-ziemniaczane

@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.delish import Delish
+from recipe_scrapers.delish import Delish
 
 
 class TestDelishScraper(ScraperTest):

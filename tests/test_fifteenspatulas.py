@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.fifteenspatulas import FifteenSpatulas
+from recipe_scrapers.fifteenspatulas import FifteenSpatulas
 
 
 class TestFifteenSpatulasScraper(ScraperTest):

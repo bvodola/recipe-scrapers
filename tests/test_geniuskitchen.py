@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.geniuskitchen import GeniusKitchen
+from recipe_scrapers.geniuskitchen import GeniusKitchen
 
 
 class TestGeniusKitchenScraper(ScraperTest):

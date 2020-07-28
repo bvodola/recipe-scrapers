@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.tineno import TineNo
+from recipe_scrapers.tineno import TineNo
 
 
 class TestTineNoScraper(ScraperTest):

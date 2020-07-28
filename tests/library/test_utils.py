@@ -1,6 +1,6 @@
 import unittest
 
-from bvodola_recipe_scrapers._utils import get_minutes
+from recipe_scrapers._utils import get_minutes
 
 
 class UtilsTest(unittest.TestCase):

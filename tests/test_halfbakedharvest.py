@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.halfbakedharvest import HalfBakedHarvest
+from recipe_scrapers.halfbakedharvest import HalfBakedHarvest
 
 
 class TestHalfBakedHarvestScraper(ScraperTest):

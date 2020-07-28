@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.giallozafferano import GialloZafferano
+from recipe_scrapers.giallozafferano import GialloZafferano
 
 
 class TestGialloZafferanoScraper(ScraperTest):

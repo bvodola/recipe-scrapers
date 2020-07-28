@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.hundredandonecookbooks import HundredAndOneCookbooks
+from recipe_scrapers.hundredandonecookbooks import HundredAndOneCookbooks
 
 
 class TestHundredAndOneCookbooksScraper(ScraperTest):

@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.bowlofdelicious import BowlOfDelicious
+from recipe_scrapers.bowlofdelicious import BowlOfDelicious
 
 
 class TestBowlOfDeliciousScraper(ScraperTest):

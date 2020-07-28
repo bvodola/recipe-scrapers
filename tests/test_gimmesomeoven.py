@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.gimmesomeoven import GimmeSomeOven
+from recipe_scrapers.gimmesomeoven import GimmeSomeOven
 
 
 class TestGimmeSomeOvenScraper(ScraperTest):

@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.archanaskitchen import ArchanasKitchen
+from recipe_scrapers.archanaskitchen import ArchanasKitchen
 
 
 class TestArchanasKitchenScraper(ScraperTest):

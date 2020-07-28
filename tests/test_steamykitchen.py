@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.steamykitchen import SteamyKitchen
+from recipe_scrapers.steamykitchen import SteamyKitchen
 
 
 class TestSteamyKitchenScraper(ScraperTest):

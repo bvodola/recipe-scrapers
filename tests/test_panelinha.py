@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.panelinha import Panelinha
+from recipe_scrapers.panelinha import Panelinha
 
 
 class TestPanelinhaScraper(ScraperTest):

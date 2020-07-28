@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.kochbar import Kochbar
+from recipe_scrapers.kochbar import Kochbar
 
 
 class TestKochbarScraper(ScraperTest):

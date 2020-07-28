@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.seriouseats import SeriousEats
+from recipe_scrapers.seriouseats import SeriousEats
 
 
 class TestSeriousEats(ScraperTest):

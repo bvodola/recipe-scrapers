@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.bbcgoodfood import BBCGoodFood
+from recipe_scrapers.bbcgoodfood import BBCGoodFood
 
 
 class TestBBCGoodFoodScraper(ScraperTest):

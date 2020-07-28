@@ -31,7 +31,7 @@ then:
 
 .. code:: python
 
-    from bvodola_recipe_scrapers import scrape_me
+    from recipe_scrapers import scrape_me
 
     # give the url as a string, it can be url from any site listed below
     scraper = scrape_me('https://www.allrecipes.com/recipe/158968/spinach-and-feta-turkey-burgers/')

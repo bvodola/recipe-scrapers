@@ -1,6 +1,6 @@
 from tests import ScraperTest
 
-from bvodola_recipe_scrapers.kennymcgovern import KennyMcGovern
+from recipe_scrapers.kennymcgovern import KennyMcGovern
 
 
 class TestKennyMcGovernScraper(ScraperTest):
